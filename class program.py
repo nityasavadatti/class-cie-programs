@@ -6,7 +6,7 @@ if len (sys.argv) == 6:
  m3=sys.argv[3]
  m4=sys.argv[4]
  m5=sys.argv[5]
-else
+else:
   script_name =sys.argv[0]
   m1=60
   m1=80
